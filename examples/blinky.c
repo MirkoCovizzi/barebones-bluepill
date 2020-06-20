@@ -33,9 +33,9 @@ typedef struct {
 #define IOPCEN ((uint32_t) 0x00000010)
 #define ODR13 ((uint32_t) 0x00002000)
 
-#define  GPIO_CRH_MODE13_0 ((uint32_t)0x00100000)
+#define GPIO_CRH_MODE13_0 ((uint32_t) 0x00100000)
 
-#define  GPIO_CRH_CNF13 ((uint32_t)0x00C00000)
+#define GPIO_CRH_CNF13 ((uint32_t) 0x00C00000)
 
 int main(void)
 {
